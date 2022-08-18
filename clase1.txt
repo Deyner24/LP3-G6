@@ -5,3 +5,5 @@ segunco cambio
 tercer cambio desde local
 
 cuarto cambio desde remoto
+
+dos funcionalidades nuevas
